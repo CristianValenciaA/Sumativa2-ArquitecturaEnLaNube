@@ -48,3 +48,16 @@ div.caption: {
     float: left;
     clear: both;
 }
+
+.minombre {
+    font-style:italic
+}
+
+.minombre:hover {
+    text-decoration: underline;
+}
+
+.title-name {
+    padding: 5px;
+    text-align: center;
+}
